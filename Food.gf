@@ -2,7 +2,7 @@ abstract Food = {
 
 	flags
 		startcat = Phrase ;
-
+ 
 	cat
 		Phrase ;
 		Item ;
