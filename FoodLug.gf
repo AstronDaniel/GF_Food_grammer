@@ -5,7 +5,7 @@ concrete FoodLug of Food =
 		Phrase,
 		Item,
 		Kind,
-		Quality = {s:Str} ;
+		Quality = {s:Str} ; 
 
 	lin
 		Is item quality = cc item (prefix (" "|"mu"|"ka"|"e") quality) ;
