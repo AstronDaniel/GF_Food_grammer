@@ -1,34 +1,33 @@
-Ambiguos1	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:25	Item -> Quality -> Phrase
-Ambiguos2	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:26	Item -> Quality -> Phrase
-Apple	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:20	Kind
-Banana	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:20	Kind
-Beef	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:20	Kind
-Boring	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:22	Quality
-Cheese	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:20	Kind
-Chicken	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:20	Kind
-Delicious	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:22	Quality
-Expensive	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:22	Quality
-Fish	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:20	Kind
-Fresh	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:22	Quality
-Is	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:15	Item -> Quality -> Phrase
-Italian	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:22	Quality
-Item	cat	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:8	
-Kind	cat	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:9	
-Mango	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:20	Kind
-Milk	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:20	Kind
-Millet	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:20	Kind
-Orange	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:20	Kind
-Phrase	cat	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:7	
-Pork	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:20	Kind
-Posho	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:20	Kind
-Prefix	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:23	Phrase -> Phrase
-QKind	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:19	Quality -> Kind -> Kind
-Quality	cat	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:10	
-Rice	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:20	Kind
-Sweet	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:22	Quality
-That	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:18	Kind -> Item
-This	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:18	Kind -> Item
-Very	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:21	Quality -> Quality
-Warm	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:22	Quality
-Wine	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:20	Kind
-question	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/Food.gf:16	Item -> Quality -> Phrase
+Ambiguos1	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:25	Item -> Quality -> Phrase
+Ambiguos2	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:26	Item -> Quality -> Phrase
+Apple	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:20	Kind
+Banana	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:20	Kind
+Beef	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:20	Kind
+Boring	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:22	Quality
+Cheese	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:20	Kind
+Chicken	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:20	Kind
+Delicious	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:22	Quality
+Expensive	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:22	Quality
+Fish	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:20	Kind
+Fresh	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:22	Quality
+Is	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:15	Item -> Quality -> Phrase
+Italian	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:22	Quality
+Item	cat	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:8	
+Kind	cat	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:9	
+Mango	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:20	Kind
+Milk	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:20	Kind
+Millet	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:20	Kind
+Orange	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:20	Kind
+Phrase	cat	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:7	
+Pork	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:20	Kind
+Posho	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:20	Kind
+Prefix	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:23	Phrase -> Phrase
+QKind	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:19	Quality -> Kind -> Kind
+Quality	cat	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:10	
+Rice	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:20	Kind
+Sweet	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:22	Quality
+That	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:18	Kind -> Item
+This	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:18	Kind -> Item
+Very	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:21	Quality -> Quality
+Warm	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:22	Quality
+Wine	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:20	Kind

@@ -1,43 +1,43 @@
-concrete FoodEng of Food = {
+concrete FoodEng of Food =open StringOper in {
 
 	lincat
 		Phrase,
 		Item,
-		Kind,
-		Quality = {
-			s : Str
-		} ;
+		Kind, 
+		Quality =SS; 
 
 	lin
-		Is item quality = {s = item.s ++ "is" ++ quality.s} ;
-		question item quality = {s ="is"++ item.s ++ quality.s++"?"} ;
-        This kind = {s = "this" ++ kind.s} ;
-        That kind = {s = "that" ++ kind.s} ;
-        QKind quality kind = {s = quality.s ++ kind.s} ;
-        Prefix phrase ={s="excuse me but"++phrase.s};
-        Ambiguos1 item quality ={s=item.s++"is"++quality.s};
-        Ambiguos2 item quality ={s=item.s++"is"++quality.s};
-        Wine = {s = "wine"} ;
-        Cheese = {s = "cheese"} ;
-        Fish = {s = "fish"} ;
-        Rice = {s = "rice"} ;
-        Banana = {s = "banana"} ; 
-        Posho= {s = "posho"} ;
-        Millet= {s = "millet"} ;
-        Apple= {s = "apple"} ;
-        Mango= {s = "mango"} ;
-        Chicken= {s = "chicken"} ;
-        Beef= {s = "beef"} ;
-        Pork= {s = "pork"} ;
-        Orange= {s = "orange"} ;
-        Very quality = {s = "very" ++ quality.s} ;
-        Fresh = {s = "fresh"} ;
-        Warm = {s = "warm"} ;
-        Italian = {s = "Italian"} ;
-        Expensive = {s = "expensive"} ;
-        Delicious = {s = "delicious"} ;
-        Boring = {s = "boring"} ;
-        Sweet = {s = "sweet"} ;
+		Is item quality = cc item (prefix "is" quality) ;
+--		question item quality =prefix "is" (cc item quality) ;
+        This kind = prefix "this" kind ;
+        That kind = prefix "that" kind ;
+        QKind quality kind = cc quality kind;
+        Prefix phrase =prefix "excuse me but" phrase;
+        Ambiguos1 item quality =cc item (prefix "is" quality) ;
+--        Ambiguos2 item quality =cc item (prefix "is" quality) ;
+        Ambiguos2 item quality =infix "is" item quality ;
+        Wine = ss "wine" ;
+        Cheese = ss "cheese" ;
+        Fish = ss "fish" ;
+        Rice = ss "rice" ;
+        Banana = ss "banana"; 
+        Posho= ss "posho" ;
+        Millet= ss "millet" ;
+        Apple= ss "apple" ;
+        Mango= ss "mango" ;
+        Chicken= ss "chicken" ;
+        Beef= ss "beef" ;
+        Pork= ss "pork" ;
+        Orange= ss "orange";
+        Very quality = prefix "very"  quality ;
+        Fresh = ss "fresh" ;
+        Warm = ss "warm" ;
+        Italian = ss "Italian" ;
+        Expensive = ss "expensive" ;
+        Delicious = ss ("delicious" | "exquisit"|"tasty" );
+        Boring = ss "boring" ;
+        Sweet = ss "sweet" ;
+        Milk=ss "milk";
      
         
 } ;

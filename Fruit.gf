@@ -1,9 +1,4 @@
 abstract Fruit = {
-
-	
-	cat
-		Fruit ;
-
-	fun
-		JackFruit, Peach : Fruit ;
-}
+      cat Fruit ;
+      fun Lemon, Peach : Fruit ;
+    }

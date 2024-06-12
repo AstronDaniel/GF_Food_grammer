@@ -2,7 +2,7 @@ abstract Food = {
 
 	flags
 		startcat = Phrase ;
- 
+
 	cat
 		Phrase ;
 		Item ;
@@ -13,7 +13,7 @@ abstract Food = {
 
 	fun
 		Is : Item -> Quality -> Phrase ;
-		question : Item -> Quality -> Phrase ;
+--		question : Item -> Quality -> Phrase ;
 		
 		This, That : Kind -> Item ;
 		QKind : Quality -> Kind -> Kind ;

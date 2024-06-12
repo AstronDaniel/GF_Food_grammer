@@ -1,10 +1,10 @@
-SS	oper-def	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/StringOper.gf:3	
-SS	oper-type	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/StringOper.gf:3	Type
-cc	oper-def	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/StringOper.gf:5	
-cc	oper-type	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/StringOper.gf:5	{s : Str} -> {s : Str} -> {s : Str}
-infix	oper-def	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/StringOper.gf:7	
-infix	oper-type	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/StringOper.gf:7	Str -> {s : Str} -> {s : Str} -> {s : Str}
-prefix	oper-def	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/StringOper.gf:6	
-prefix	oper-type	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/StringOper.gf:6	Str -> {s : Str} -> {s : Str}
-ss	oper-def	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/StringOper.gf:4	
-ss	oper-type	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food/StringOper.gf:4	Str -> {s : Str}
+SS	oper-def	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/StringOper.gf:3	
+SS	oper-type	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/StringOper.gf:3	Type
+cc	oper-def	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/StringOper.gf:5	
+cc	oper-type	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/StringOper.gf:5	{s : Str} -> {s : Str} -> {s : Str}
+infix	oper-def	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/StringOper.gf:7	
+infix	oper-type	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/StringOper.gf:7	Str -> {s : Str} -> {s : Str} -> {s : Str}
+prefix	oper-def	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/StringOper.gf:6	
+prefix	oper-type	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/StringOper.gf:6	Str -> {s : Str} -> {s : Str}
+ss	oper-def	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/StringOper.gf:4	
+ss	oper-type	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/StringOper.gf:4	Str -> {s : Str}

@@ -1,5 +1,4 @@
 abstract Mushroom = {
-	
-	cat Mushroom;
-	fun Cep,Aaric:Mushroom;
-}
+      cat Mushroom ;
+      fun Cep, Agaric : Mushroom ;
+    }
