@@ -5,12 +5,12 @@ concrete FoodLug of Food =
 		Phrase,
 		Item,
 		Kind,
-		Quality = {s:Str} ; 
+		Quality = SS;
 
 	lin
 		Is item quality = cc item (prefix (" "|"mu"|"ka"|"e") quality) ;
 		--		question item quality =prefix "is" (cc item quality) ;
-		This kind = prefix ("eno"|"gano"|"guno") kind ;
+		This kind = prefix ("eno"|"gano"|"guno"|"kano") kind ;
 		That kind = prefix ("eyo"|"ogwo") kind ;
 		QKind quality kind = cc quality kind ;
 		Prefix phrase = prefix "nsonyiwamu naye" phrase ;

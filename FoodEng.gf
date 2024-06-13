@@ -7,6 +7,7 @@ concrete FoodEng of Food =open StringOper in {
 		Quality =SS; 
 
 	lin
+	
 		Is item quality = cc item (prefix "is" quality) ;
 --		question item quality =prefix "is" (cc item quality) ;
         This kind = prefix "this" kind ;
@@ -38,6 +39,8 @@ concrete FoodEng of Food =open StringOper in {
         Boring = ss "boring" ;
         Sweet = ss "sweet" ;
         Milk=ss "milk";
+        
+        
      
         
 } ;

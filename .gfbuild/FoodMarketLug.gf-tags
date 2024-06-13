@@ -1,0 +1,42 @@
+Ambiguos1	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Ambiguos2	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Apple	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Banana	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Beef	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Boring	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Cheese	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Chicken	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Delicious	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Expensive	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Fish	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Fresh	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Fruit	indir	FruitLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FruitLug.gf-tags
+FruitKind	lin	C:\Users\Sempala Daniel\eclipse-workspace\Food\FoodMarketLug.gf:6	
+Is	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Italian	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Item	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Kind	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Kind	lincat	C:\Users\Sempala Daniel\eclipse-workspace\Food\FoodLug.gf:5-8	
+Kind	lindef	C:\Users\Sempala Daniel\eclipse-workspace\Food\FoodLug.gf:5-8	
+Kind	linref	C:\Users\Sempala Daniel\eclipse-workspace\Food\FoodLug.gf:5-8	
+Lemon	indir	FruitLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FruitLug.gf-tags
+Mango	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Milk	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Millet	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Mushroom	indir	MushroomLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\MushroomLug.gf-tags
+MushroomKind	lin	C:\Users\Sempala Daniel\eclipse-workspace\Food\FoodMarketLug.gf:7	
+Orange	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Peach	indir	FruitLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FruitLug.gf-tags
+Phrase	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Pork	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Posho	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Prefix	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+QKind	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Quality	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Rice	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Sweet	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+That	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+This	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Very	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Warm	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags
+Wine	indir	FoodLug		C:\Users\Sempala Daniel\eclipse-workspace\Food\.gfbuild\FoodLug.gf-tags

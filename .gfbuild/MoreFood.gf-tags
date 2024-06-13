@@ -20,14 +20,14 @@ Millet	indir	Food		C:\Users\Sempala Daniel\eclipse-workspace\Food2\.gfbuild\Food
 Orange	indir	Food		C:\Users\Sempala Daniel\eclipse-workspace\Food2\.gfbuild\Food.gf-tags
 Phrase	cat	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Food.gf:7	
 Phrase	indir	Food		C:\Users\Sempala Daniel\eclipse-workspace\Food2\.gfbuild\Food.gf-tags
-Pizza	fun	C:\Users\Sempala Daniel\eclipse-workspace\Food2\Morefood.gf:7	Kind
+Pizza	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Morefood.gf:7	Kind
 Pork	indir	Food		C:\Users\Sempala Daniel\eclipse-workspace\Food2\.gfbuild\Food.gf-tags
 Posho	indir	Food		C:\Users\Sempala Daniel\eclipse-workspace\Food2\.gfbuild\Food.gf-tags
 Prefix	indir	Food		C:\Users\Sempala Daniel\eclipse-workspace\Food2\.gfbuild\Food.gf-tags
 QKind	indir	Food		C:\Users\Sempala Daniel\eclipse-workspace\Food2\.gfbuild\Food.gf-tags
-Qls	fun	C:\Users\Sempala Daniel\eclipse-workspace\Food2\Morefood.gf:6	Item -> Quality -> Question
+Qls	fun	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Morefood.gf:6	Item -> Quality -> Question
 Quality	indir	Food		C:\Users\Sempala Daniel\eclipse-workspace\Food2\.gfbuild\Food.gf-tags
-Question	cat	C:\Users\Sempala Daniel\eclipse-workspace\Food2\Morefood.gf:4	
+Question	cat	/mnt/c/Users/Sempala Daniel/eclipse-workspace/Food2/Morefood.gf:4	
 Rice	indir	Food		C:\Users\Sempala Daniel\eclipse-workspace\Food2\.gfbuild\Food.gf-tags
 Sweet	indir	Food		C:\Users\Sempala Daniel\eclipse-workspace\Food2\.gfbuild\Food.gf-tags
 That	indir	Food		C:\Users\Sempala Daniel\eclipse-workspace\Food2\.gfbuild\Food.gf-tags
